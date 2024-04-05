@@ -43,18 +43,6 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://roll-token.s3.amazonaws.com/1337/fd5f947e-302b-40af-9aa5-fd134e722a21"
-    },
-    {
-      "name": "AndjelaNadja",
-      "address": "0x8BDfaE0F83a03F5fa98B0bDf339F56df3C9F8BD5",
-      "symbol": "AIN",
-      "tags": [
-        "roll",
-        "bases"
-      ],
-      "decimals": 18,
-      "chainId": 1284,
-      "logoURI": "https://roll-token.s3.amazonaws.com/AIN/b588d1ee-ea2f-47fe-a591-94f12622bc63"
     }
   ]
 }
